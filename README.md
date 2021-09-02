@@ -15,6 +15,7 @@
 •	Grafica como se desarrolla la onda senoidal en un circuito en "CA" tanto su voltaje como su corriente.
 
 # MARCO TEORICO
+![44](https://user-images.githubusercontent.com/85193519/131871578-f4d1b611-a081-4499-b8aa-58cce0454ba0.jpg)
 
 # RESOLUCION DE EJERCICIOS
 
@@ -35,6 +36,15 @@
 ![6](https://user-images.githubusercontent.com/85193519/131772256-d48fc276-e9c6-46ed-9274-2c1df7ba885f.jpg)
 ![7](https://user-images.githubusercontent.com/85193519/131772268-8eef9611-72e5-4bc4-96cb-55db7228908c.jpg)
 ![8](https://user-images.githubusercontent.com/85193519/131772275-e980d0fa-dda9-47cf-89ea-8616ff320a3a.jpg)
+![31](https://user-images.githubusercontent.com/85193519/131869942-3788f781-fc7f-4aee-a604-631d6a3cad4b.jpg)
+![32](https://user-images.githubusercontent.com/85193519/131870228-e7c50835-7296-4429-858f-a2f2bffe6ba3.jpg)
+![33](https://user-images.githubusercontent.com/85193519/131870274-0a534c91-ea9c-4146-b332-64d6717549c8.jpg)
+![34](https://user-images.githubusercontent.com/85193519/131870299-59760253-a6fd-494e-adcd-e7faa0b10c31.jpg)
+![35](https://user-images.githubusercontent.com/85193519/131870317-115c6e59-604e-4382-add7-ab36371e9128.jpg)
+![36](https://user-images.githubusercontent.com/85193519/131870339-4ff11d27-715e-4f9c-8fd2-26e4943ade2f.jpg)
+![37](https://user-images.githubusercontent.com/85193519/131870351-5627b3a7-f9cf-4175-9c2f-76705748af03.jpg)
+![38](https://user-images.githubusercontent.com/85193519/131870364-e0773fab-eea3-4ea6-902f-5868f2e5931b.jpg)
+![39](https://user-images.githubusercontent.com/85193519/131870378-bac92db9-73ee-46f8-9e11-0f6164aa3886.jpg)
 
 * CAPITULO 16
 
@@ -53,6 +63,10 @@
 ![22](https://user-images.githubusercontent.com/85193519/131773889-0ccfd09b-c651-4134-91fe-3008b6d33a4b.jpg)
 ![23](https://user-images.githubusercontent.com/85193519/131773916-7f93cab6-6592-4ac0-8c9a-43b15846f47d.jpg)
 ![24](https://user-images.githubusercontent.com/85193519/131773928-d7207df6-52c0-45e7-9372-534bc89ba36f.jpg)
+![40](https://user-images.githubusercontent.com/85193519/131870437-7c984685-e02d-4b12-bc7b-badd13431190.jpg)
+![41](https://user-images.githubusercontent.com/85193519/131870459-d6a0f4b0-4480-4e7a-8e22-d725cfa59398.jpg)
+![42](https://user-images.githubusercontent.com/85193519/131870478-955d887e-f1d5-4f3e-b35f-2c9e7b1ceeb3.jpg)
+![43](https://user-images.githubusercontent.com/85193519/131870509-4d373674-69d5-46ac-98b9-3750386ab0ec.jpg)
 
 
 # VIDEO
