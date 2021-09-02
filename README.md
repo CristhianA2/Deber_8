@@ -70,7 +70,7 @@
 
 
 # VIDEO
-
+https://youtu.be/IGjYGjAE7Pc
 # CONCLUSIONES
 
 •	Finalmente concluimos que el enfocar tanto voltajes como corrientes de Ca como también los fasores vemos que los elementos de los circuitos como las impedancias y los analizamos tanto en el dominio de los fasores y podemos decir que es mucho más practico que al ser analizados en función del tiempo.
